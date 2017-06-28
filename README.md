@@ -7,3 +7,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ```
 
 参考：https://brew.sh/index_zh-cn.html
+
+## emoji
+
+<kbd>ctrl + command + space</kbd>
