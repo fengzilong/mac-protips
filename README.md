@@ -11,3 +11,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ## emoji
 
 <kbd>ctrl + command + space</kbd>
+
+## snapshot
+
+<kbd>shift + command + 4</kbd>
