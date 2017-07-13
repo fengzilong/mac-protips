@@ -15,3 +15,8 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ## snapshot
 
 <kbd>shift + command + 4</kbd>
+
+## shortcuts
+
+- cmd + del 扔到回收站
+- cmd + option + esc 强制退出应用程序
