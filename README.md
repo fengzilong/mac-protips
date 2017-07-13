@@ -20,3 +20,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 
 - cmd + del 扔到回收站
 - cmd + option + esc 强制退出应用程序
+
+## tips
+
+- Right click on app to open, if it is not from AppStore
